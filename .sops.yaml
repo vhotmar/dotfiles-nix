@@ -1,0 +1,7 @@
+keys:
+  - &vojta 7EF680B4C7F8B00E94AF0E961432DBD0C233DE20
+creation_rules:
+  - path_regex: .*$
+    key_groups:
+    - pgp:
+      - *vojta
