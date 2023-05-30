@@ -1,0 +1,4 @@
+* Personal NIX dotfiles
+
+For documentaiton about the structure of dotfiles please visit the [[https://www.githu.com/vhotmar/dotfiles-main][Dotfiles main]].
+
